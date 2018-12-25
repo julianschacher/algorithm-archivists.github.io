@@ -36,7 +36,8 @@
         "asm-x64": "nasm"
       },
       "ignore": [
-        "emojicode"
+        "emojicode",
+        "text"
       ]
     },
     "api-language-selector": {
