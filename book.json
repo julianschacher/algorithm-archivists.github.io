@@ -31,6 +31,11 @@
     "ga": {
       "token": "UA-118252470-1"
     },
+    "prism": {
+      "lang": {
+        "asm-x64": "nasm"
+      }
+    },
     "api-language-selector": {
       "languages": [
         {
