@@ -20,7 +20,7 @@ In code, it looks something like this:
 {% sample lang="clj" %}
 [import:7-11, lang:"clojure"](code/clojure/bogo.clj)
 {% sample lang="c" %}
-[import:25-29, lang:"c_cpp"](code/c/bogo_sort.c)
+[import:25-29, lang:"c"](code/c/bogo_sort.c)
 {% sample lang="java" %}
 [import:2-6, lang:"java"](code/java/bogo.java)
 {% sample lang="js" %}
@@ -34,7 +34,7 @@ In code, it looks something like this:
 {% sample lang="lua" %}
 [import:1-22, lang="lua"](code/lua/bogosort.lua)
 {% sample lang="cpp" %}
-[import:33-38, lang:"c_cpp"](code/c++/bogosort.cpp)
+[import:33-38, lang:"cpp"](code/c++/bogosort.cpp)
 {% sample lang="rs" %}
 [import:16-20, lang:"rust"](code/rust/bogosort.rs)
 {% sample lang="swift" %}
@@ -88,7 +88,7 @@ We are done here!
 {% sample lang="clj" %}
 [import, lang:"clojure"](code/clojure/bogo.clj)
 {% sample lang="c" %}
-[import, lang:"c_cpp"](code/c/bogo_sort.c)
+[import, lang:"c"](code/c/bogo_sort.c)
 {% sample lang="java" %}
 [import, lang:"java"](code/java/bogo.java)
 {% sample lang="js" %}
@@ -102,7 +102,7 @@ We are done here!
 {% sample lang="lua" %}
 [import, lang="lua"](code/lua/bogosort.lua)
 {% sample lang="cpp" %}
-[import, lang:"c_cpp"](code/c++/bogosort.cpp)
+[import, lang:"cpp"](code/c++/bogosort.cpp)
 {% sample lang="rs" %}
 [import, lang:"rust"](code/rust/bogosort.rs)
 {% sample lang="swift" %}
