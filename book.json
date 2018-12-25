@@ -34,7 +34,10 @@
     "prism": {
       "lang": {
         "asm-x64": "nasm"
-      }
+      },
+      "ignore": [
+        "emojicode"
+      ]
     },
     "api-language-selector": {
       "languages": [
